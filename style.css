@@ -1,0 +1,27 @@
+.hero-img {
+  height: 60vh;
+  background-size: cover;
+  background-position: center;
+}
+.charity {
+  background-image: url(https://images.unsplash.com/photo-1656311877608-9c54df50f298?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80);
+}
+.tree {
+  background-image: url(https://wallpaperaccess.com/full/344618.jpg);
+}
+.world {
+  background-image: url(https://media.istockphoto.com/id/1346580665/photo/world-map-and-networking.webp?s=612x612&w=is&k=20&c=SiUQjYr43DgNNixT-XHwv1Q2No0Sj1abTUihgy6NqFo=);
+}
+.images {
+  width: 25vh;
+  height: 20vh;
+  background-size: cover;
+  background-position: center;
+  color: white;
+  font-weight: bolder;
+  font-size: larger;
+}
+.learn {
+  padding-left: 15rem;
+  padding-right: 15rem;
+}
