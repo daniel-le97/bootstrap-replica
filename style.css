@@ -1,7 +1,8 @@
 .hero-img {
-  height: 60vh;
+  height: 75vh;
   background-size: cover;
   background-position: center;
+  background-attachment: fixed;
 }
 .charity {
   background-image: url(https://images.unsplash.com/photo-1656311877608-9c54df50f298?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80);
@@ -22,6 +23,10 @@
   font-size: larger;
 }
 .learn {
-  padding-left: 15rem;
-  padding-right: 15rem;
+  /* padding-left: 15rem;
+  padding-right: 15rem; */
+  max-height: fit-content;
+}
+.tra {
+  background-image: url(./casey-horner-9XRpNnTqdJE-unsplash.jpg);
 }
